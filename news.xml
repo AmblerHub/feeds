@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 03:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 04:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 필라델피아에 소형 항공기 추락…사상자 파악 중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250201121135</link>
+            <guid>https://zdnet.co.kr/view/?no=20250201121135</guid>
+            <pubDate>Sat, 01 Feb 2025 04:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[미국 필라델피아 인근에 소형 항공기가 추락해 다수의 사상자가 발생했다. 1일 미국 연방항공청(FAA)에 따르면 사고는 31일(현지시각) 저녁 오후 6시 30분 북동부 필라델피아...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/01/efaf65d4f652a583541b1937a545a584-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팀 쿡 "향후 아이폰 개발에 아직 많은 혁신이 남아 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250201072936</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250131214347</guid>
             <pubDate>Sat, 01 Feb 2025 02:50:44 GMT</pubDate>
             <content:encoded><![CDATA[애플이 차세대 폴더블 디스플레이의 핵심 공급사를 선정하는 마지막 단계에 있다고 IT매체 맥루머스가 31일(현지시간) 국내 IT 팁스터 란즈크를 인용해 보도했다. 그는 관련업체 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/13/2fa7336c09d8ba7f90177ea7c41a24eb.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갤럭시S25 울트라, 아이폰16 프로 맥스와 성능 비교했더니]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250131122304</guid>
             <pubDate>Sat, 01 Feb 2025 02:50:44 GMT</pubDate>
             <content:encoded><![CDATA[한국필립모리스는 1월부터 생산되는 모든 담뱃갑 내부에 위기가구 발굴·지원 홍보 문구를 적용한다고 31일 밝혔다. 이는 한국필립모리스가 지난해부터 행정안전부와 위기가구 발굴 홍보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사업용 태양광 신규보급, 연간 3GW대 재진입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250131164609</link>
-            <guid>https://zdnet.co.kr/view/?no=20250131164609</guid>
-            <pubDate>Sat, 01 Feb 2025 02:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 4.1GW를 정점으로 하락세를 보여 온 사업용 태양광 신규 설치용량이 3GW대를 회복했다. 산업통상자원부는 '2024년 사업용 태양광 보급현황(잠정)'을 집계한 결과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
