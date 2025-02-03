@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 03:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 04:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹젠, 2024년 청소년 코딩 및 게임 과몰입 예방 교육 사회공헌활동 결산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203132307</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203132307</guid>
+            <pubDate>Mon, 03 Feb 2025 04:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[웹젠은 3일 지난해 사회공헌 프로그램에 3천740명의 청소년이 참여했다고 밝혔다. 웹젠은 성남시청소년재단과 관내 청소년 코딩 교육 프로그램을 연령대별로 체계화하며, 청소년 IC...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/03/3fc7fb94be98e68428f79b8dfcbb741d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베라체인 밈코인 프로젝트 '헨로', 300만 달러 시드 투자 유치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203125837</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203125837</guid>
+            <pubDate>Mon, 03 Feb 2025 04:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[레이어1 베라체인의 커뮤니티 밈코인 프로젝트 헨로가 300만 달러(약 43억7490만원) 규모의 시드 투자를 유치했다고 3일 밝혔다. 베라체인은 유동성 증명 합의 메커니즘 기반...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/03/946aa0ff65b1684f691279d143fe6d30-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EDB, 김희배 신임 한국 지사장 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20250203121939</link>
             <guid>https://zdnet.co.kr/view/?no=20250203121939</guid>
             <pubDate>Mon, 03 Feb 2025 03:25:42 GMT</pubDate>
             <content:encoded><![CDATA[EDB가 김희배 신임 한국 지사장을 선임했다고 3일 밝혔다. 김희배 신임 지사장은 데이터와 분석 테크놀로지, 기술 생태계 조성 분야에서 28년 이상의 풍부한 경험을 보유한 전문...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/03/100bc3baee5e592d8fec13157e84d8e5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국소프트웨어산업협회, 박연정 前굿센 대표 신임 전무 선임]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250203121521</guid>
             <pubDate>Mon, 03 Feb 2025 03:25:42 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA)가 박연정 전 굿센(現 아이티센코어) 대표이사를 신임 전무에 선임했다고 3일 밝혔다. 박 신임 전무는 1995년 LG CNS에 시스템 엔지니어로 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/03/8f56dd2a4bbcfe7c70716fee4a6f42bf-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["가장 강력한 LLM은?"…올거나이즈, AI 에이전트 평가 플랫폼 첫선]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250203110807</guid>
             <pubDate>Mon, 03 Feb 2025 02:48:51 GMT</pubDate>
             <content:encoded><![CDATA[카카오뱅크가 '케이(K)-패스' 체크카드인 'K-패스 프렌즈 체크카드'를 출시했다고 3일 밝혔다. K-패스는 월 15회 이상 대중교통을 이용할 경우 최대 60회까지 이용 요금의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LLM 학습용 데이터 유해표현 검출 AI모델 개발됐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250203111745</link>
-            <guid>https://zdnet.co.kr/view/?no=20250203111745</guid>
-            <pubDate>Mon, 03 Feb 2025 02:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 LLM 학습용 데이터에 대해 유해 표현을 검출할 수 있는 AI 모델을 구축했다고 3일 밝혔다. 한국지능정보사회진흥원 초거대AI 학습용 데이터 품질...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LS마린솔루션, 작년 매출 1303억원…"창사 이래 최고"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250203104640</link>
-            <guid>https://zdnet.co.kr/view/?no=20250203104640</guid>
-            <pubDate>Mon, 03 Feb 2025 02:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내 케이블 시공 업체 LS마린솔루션이 역대 최대 매출을 달성하며 가파른 성장세를 이어간다. LS마린솔루션은 지난해 잠정 실적 기준 매출 1천303억원과 영업이익 124억원을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
