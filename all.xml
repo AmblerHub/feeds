@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 03:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 04:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[최수연 네이버 "글로벌 빅테크 LLM과 협력 가능성 있어" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[네이버 "글로벌 빅테크 LLM과 협력 가능성 있어" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207104138</link>
             <guid>https://zdnet.co.kr/view/?no=20250207104138</guid>
             <pubDate>Fri, 07 Feb 2025 02:51:02 GMT</pubDate>
