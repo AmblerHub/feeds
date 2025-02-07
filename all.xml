@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 02:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 03:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, LA 산불 구호에 100만 달러 규모 전자제품 기부 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250207112312</link>
+            <guid>https://zdnet.co.kr/view/?no=20250207112312</guid>
+            <pubDate>Fri, 07 Feb 2025 03:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 로스앤젤레스(LA)에서 발생된 대형 산불 피해 복구를 위해 100만 달러(14억5천만원) 규모의 가전·태블릿·PC 제품을 지원한다고 7일 밝혔다. 7일 삼성전자 미국...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/07/8c9932cc38962a34b3f2f61bf2311c0d-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메텍홀딩스, JMB 노스아메리카와 27억원 규모 계약 체결 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207114947</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250207114720</guid>
             <pubDate>Fri, 07 Feb 2025 02:51:02 GMT</pubDate>
             <content:encoded><![CDATA[BMW코리아는 창립 30주년을 맞아 2월 한 달간 온라인에서만 한정 판매되는 차량 4종을 출시한다고 7일 밝혔다. 한정 판매 차량은 ▲BMW 320i M 스포츠 프로 스페셜 에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/07/cdef197bed88d425e4ba149450697e17-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[도미노피자, 수익 개선 위해 매장 폐쇄…주가 급등 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207103535</guid>
             <pubDate>Fri, 07 Feb 2025 02:51:02 GMT</pubDate>
             <content:encoded><![CDATA[미스트랄이 자사 인공지능(AI) 어시스턴트 '르챗'을 개편해 서비스 경쟁력 강화에 나섰다. 7일 테크크런치 등 외신에 따르면 미스트랄은 르챗의 웹 인터페이스를 업그레이드하고 i...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나홀로 잠잠한 P2E 시장...반등 키워드는 게임성과 수익모델 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207103416</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207103416</guid>
-            <pubDate>Fri, 07 Feb 2025 02:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 시장이 최근 다양한 섹터에서 성장세를 보이고 있지만 P2E 키워드는 좀처럼 반등의 기미를 보이지 않고 있다. 1세대 P2E 게임으로 불리는 엑시 인피니티 이후 이렇다 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
