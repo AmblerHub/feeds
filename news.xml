@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 02:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 03:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["용의자 질환 부각 편견·혐오는 문제해결 도움 안 돼”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250212120514</link>
+            <guid>https://zdnet.co.kr/view/?no=20250212120514</guid>
+            <pubDate>Wed, 12 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[최근 발생한 초등학생 피살사건과 관련해 전체 정신질환에 대한 편견과 혐오로 이어지는 것을 경계해야 한다는 목소리가 나왔다. 중앙정신건강복지사업지원단은 12일 입장문을 통해 “피...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/05/94fcd59e8652207f31823e999cba0c02-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도산안창호급 잠수함 형상 담은 기념우표 나온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250212112823</link>
+            <guid>https://zdnet.co.kr/view/?no=20250212112823</guid>
+            <pubDate>Wed, 12 Feb 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부는 우리 기술로 개발한 한국형 잠수함 기념우표 51만 장을 오는 20일부터 판매한다고 12일 밝혔다. 기념우표에는 도산안창호급 잠수함(KSS-Ⅲ) 형상이 담겨 있다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/12/61ba946844ebfef13631a75acb333083-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계 CEO 5명 중 4명 "AI, 잠재적 이점 있어…의사 결정이 AI 적용 방해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250212114611</link>
             <guid>https://zdnet.co.kr/view/?no=20250212114611</guid>
             <pubDate>Wed, 12 Feb 2025 02:50:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 최고경영자(CEO) 5명 중 4명이 인공지능(AI)이 잠재적으로 이점이 있는 만큼 이를 사업에 통합시키려는 계획을 가지고 있는 것으로 파악됐다. 내부 의사결정 구조가 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/20/6498a833e4948a5e6863b3bed3e05918-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제약바이오협, 내달부터 제조관리자·GMP·제약마케팅 교육 시작]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250212114425</guid>
             <pubDate>Wed, 12 Feb 2025 02:50:00 GMT</pubDate>
             <content:encoded><![CDATA[한국제약바이오협회가 내달부터 오는 11월 말까지 제약바이오산업 분야에 대한 온·오프라인 교육을 시행한다. 우선 의약품 등 제조(수입)관리자 교육은 총 8차로 이뤄지며, 온라인 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/26/81fe8e3aa18980291fda8615350d9e17-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SOOP 분식회계 의혹에…"매출 부풀릴 동기 없다"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250212103146</guid>
             <pubDate>Wed, 12 Feb 2025 02:50:00 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터가 삼성SDS와 손잡고 우리나라 국회 시스템에 인공지능(AI)을 접목하는 사업을 추진한다. 한컴은 삼성SDS와 컨소시엄을 구성해 '국회 빅데이터 플랫폼(AI 국회) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더벤처스, '글로벌 대학생 벤처스카우트' 키운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250212102827</link>
-            <guid>https://zdnet.co.kr/view/?no=20250212102827</guid>
-            <pubDate>Wed, 12 Feb 2025 02:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[더벤처스(대표 김철우)는 '대학생 벤처 스카우트 프로그램'을 글로벌로 확대해 해외 대학생 대상 '글로벌 벤처스카우트 프로그램'을 운영한다고 12일 밝혔다. 기존 프로그램이 국내...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트, 2025년 실적 개선 총력...신작 앞세워 턴어라운드]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250212102542</link>
-            <guid>https://zdnet.co.kr/view/?no=20250212102542</guid>
-            <pubDate>Wed, 12 Feb 2025 02:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[엔씨소프트가 코스피 상장 이후 지난해 첫 적자를 기록한 가운데, 올해 굵직한 신작 게임을 앞세워 턴어라운드를 시도한다. 이 회사의 적자 기록은 기존 서비스작 매출 하향 안정화와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
