@@ -4,16 +4,56 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 03:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 04:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇 개발사 로브로스, 첫 휴머노이드 '이그리스' 공개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219112713</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219112713</guid>
+            <pubDate>Wed, 19 Feb 2025 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[국내 로봇 개발사 로브로스는 지난 12~15일 강원도 평창에서 열린 2025 한국로봇학회(KRoC)에서 미래형 휴머노이드 로봇 '이그리스(IGRIS)'를 공개했다고 19일 밝혔...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/19/dcf87b5f96a1ebfaefe06b98107d82f2-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK이노 E&S·신한은행·위즈돔, 수소 통근버스 전환 협력 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219132523</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219132523</guid>
+            <pubDate>Wed, 19 Feb 2025 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[SK이노베이션 E&amp;S가 신한은행 및 통근버스 플랫폼 기업 위즈돔과 손잡고 전세버스 운수사업자의 수소버스 전환 금융지원을 통한 수소 통근버스 확산에 나선다. SK이노베이션 E&amp;S...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/19/aebb18f0ae495748a344a30a1ea15452-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미반도체, '세미콘 코리아 2025' 공식 스폰서로 참가 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219132445</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219132445</guid>
+            <pubDate>Wed, 19 Feb 2025 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체는 오늘부터 서울 코엑스에서 열리는 '2025 세미콘 코리아' 전시회에 공식스폰서로 참가한다고 19일 밝혔다. 한미반도체는 이번 세미콘 코리아 전시회를 통해 인공지능 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中 성인장난감 기업, 말 통하는 'AI 러브돌' 내놓는다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219112057</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219112057</guid>
+            <pubDate>Wed, 19 Feb 2025 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 러브돌 대형 제조사인 WMDoll이 구독형 'AI 러브돌'을 정식 출시한다. 회사는 AI 러브돌을 판매할 경우 회사 매출이 기존 대비 30% 증가할 것으로 내다봤다. 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포블, 바이낸스 스마트체인 기반 테더 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219123141</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219123141</guid>
+            <pubDate>Wed, 19 Feb 2025 04:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[포블게이트(대표 안현준, 포블)는 스테이블코인 테더(USDT)의 바이낸스 스마트체인(BSC) 네트워크 지원을 19일부터 시작한다고 밝혔다. 멀티체인 서비스는 하나의 디지털 자산...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1분건강] 수면무호흡증 이어지면 청력 손실 위험 커져 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250219122745</link>
             <guid>https://zdnet.co.kr/view/?no=20250219122745</guid>
             <pubDate>Wed, 19 Feb 2025 03:28:07 GMT</pubDate>
             <content:encoded><![CDATA[수면 중 호흡이 멈추는 폐쇄성 수면무호흡증(OSA)이 청력 손실과 밀접한 관련이 있다는 연구 결과가 나왔다. 이전미 인제대 일산백병원 이비인후과 교수팀은 2014년~2023년 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/19/e929803b3df7554021a26f37ff972591-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디랩스게임즈, '복싱스타X' 출시 일주일만에 글로벌 누적 이용자 50만명 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250219122622</guid>
             <pubDate>Wed, 19 Feb 2025 03:28:08 GMT</pubDate>
             <content:encoded><![CDATA[디랩스게임즈(대표 권준모)는 웹3 기반의 신작 '복싱스타 X'가 출시 일주일 만에 글로벌 누적 이용자 수 50만 명을 돌파했다고 19일 밝혔다. '복싱스타 X'는 글로벌 누적 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/19/b0f45caf2251d6338d4229343b39a67f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노연홍 제약바이오협회장 연임…내달부터 2기 임기 시작 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -40,11 +80,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 체크포인트, 韓·아태 보안 시장 정조준…AI·자동화로 보안 혁신 나선다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[체크포인트, 韓·아태 보안 시장 정조준…AI·자동화로 보안 혁신 나선다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250219114027</link>
             <guid>https://zdnet.co.kr/view/?no=20250219114027</guid>
             <pubDate>Wed, 19 Feb 2025 03:28:08 GMT</pubDate>
-            <content:encoded><![CDATA["우리는 '세계 최고의 보안 기업'이자 '최고의 보안 플랫폼'이라는 목표를 향해 나아가고 있습니다. 이는 지난해 최고경영자(CEO) 교체와 함께 본격화된 새로운 도전으로, 인공...]]></content:encoded>
+            <content:encoded><![CDATA[[방콕(태국)=조이환 기자] "우리는 '세계 최고의 보안 기업'이자 '최고의 보안 플랫폼'이라는 목표를 향해 나아가고 있습니다. 이는 지난해 최고경영자(CEO) 교체와 함께 본...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250219104606</guid>
             <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
             <content:encoded><![CDATA[CJ제일제당이 괌 미군기지 내 위치한 대형 식료품점(Commissary)에서 K-푸드 제품군 판매를 시작한다고 19일 밝혔다. 판매 제품은 ▲식물성 비비고 왕교자 3종(오리지널...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[反 머스크 반대 시위 확산…테슬라는 어떤 영향 받을까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219104227</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219104227</guid>
-            <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크와 테슬라에 반대하는 시위가 미국을 비롯한 많은 국가에서 일어나고 있다. 최근 수백 명 단위 시위대가 일론 머스크에 반대하는 대대적인 캠페인을 전개하고 있어 테슬라 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국표원, AI 등 첨단분야 국제표준 개발에 425억 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219111608</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219111608</guid>
-            <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 '국가표준기술력향상사업'에 지난해보다 22% 늘어난 425억원을 지원한다고 19일 밝혔다. 지난해 5월 국표원이 미래를 이끌 첨단분야 국제표준 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버아크, MS '디팬더 포 아이덴티티' 통합 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219110540</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219110540</guid>
-            <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘 정보보호 기업 사이버아크소프트웨어는 19일 사이버아크 '특권 접근 관리자(PAM)'와 마이크로소프트(MS) '디팬더 포 아이덴티티(Microsoft Defender f...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부영그룹이 인수 적극적?...TBS "사실관계 다르다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219110651</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219110651</guid>
-            <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[부영그룹이 TBS를 인수할 것이란 한 언론보도에 대해, TBS가 “사실과 다르다”고 부인했다. 19일 TBS는 스마트투데이가 보도한 '부영 TBS 인수 적극적...남은 능선은'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW 528i 등 냉각수 펌프 배선 불량 따른 화재위험…자발적 리콜 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219105920</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219105920</guid>
-            <pubDate>Wed, 19 Feb 2025 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 기아·BMW코리아·르노코리아·테슬라코리아·재규어랜드로버코리아가 제작하거나 수입판매한 37개 차종 7만6천382대에서 제작결함이 발견돼 자발적으로 시정조치(리콜)한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
