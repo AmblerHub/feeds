@@ -4,16 +4,48 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 03:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 04:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레노버 "韓 AI 투자 증가, 전년比 6배 이상... 아태 평균 2배" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220132200</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220132200</guid>
+            <pubDate>Thu, 20 Feb 2025 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA["올해 국내 기업들의 AI 투자액 증가율이 아시아태평양 지역 평균(3.3배) 두 배 이상인 6.2배 증가할 것으로 전망됩니다. 이는 국내 기업들이 AI를 통한 비즈니스 생산성 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/20/0ee63ae61a028275ae36a2f7b277f685-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우로보틱스, 테크타카와 물류로봇 시장 공략 나서 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220110121</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220110121</guid>
+            <pubDate>Thu, 20 Feb 2025 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[로봇 플랫폼 전문기업 레인보우로보틱스는 글로벌 통합 물류 플랫폼 '아르고'를 운영하는 테크타카와 함께 글로벌 물류 로봇 시장을 공략하기 위해 '물류 자동화 사업 업무협약(MOU...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/20/3b9abaac3c0f4d295a6eb6ba1fc4282a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바커케미칼, '인터배터리'서 자율주행 센서용 실리콘 방열재 소개 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220131915</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220131915</guid>
+            <pubDate>Thu, 20 Feb 2025 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 화학 기업 바커케미칼은 '인터배터리 2025'에서 자율주행 센서용 고성능 실리콘 방열재를 처음으로 선보인다고 20일 밝혔다. 올해 13회째를 맞는 인터배터리 2025는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[벤틀리, 첫 전기차 전용공장 '엑설런스 센터' 개관 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220123605</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220123605</guid>
+            <pubDate>Thu, 20 Feb 2025 04:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[벤틀리모터스가 영국 본사 크루(Crewe) 공장 내에 브랜드 첫 순수 전기 SUV 개발을 위한 '엑설런스 센터(Excellence Centre)'를 개관했다고 20일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['내란 우두머리' 혐의 尹 첫 형사재판 종료...내달 24일 준비기일 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250220121938</link>
             <guid>https://zdnet.co.kr/view/?no=20250220121938</guid>
             <pubDate>Thu, 20 Feb 2025 03:25:36 GMT</pubDate>
             <content:encoded><![CDATA[내란 우두머리 혐의로 구속 기소된 윤석열 대통령의 첫 형사재판과 구속취소 심문기일이 1시간여만에 종료됐다. 서울중앙지법 형사합의25부(부장판사 지귀연)는 20 오전 10시부터 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/20/e6b0dfd188bf615caaf7327e79a6dd12-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[총상금 10억원 골프대회 개최…렉서스, KPGA와 업무협약 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250220115501</guid>
             <pubDate>Thu, 20 Feb 2025 03:25:36 GMT</pubDate>
             <content:encoded><![CDATA[렉서스코리아는 지난 18일 렉서스 복합문화공간 커넥트투(CONNECT TO)에서 한국프로골프협회(KPGA)와 함께 '2025 렉서스 마스터즈(LEXUS MASTERS)' 대회 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/20/1c2aee3382af36909fc3a932d916fb4c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["AI로 설계 최적화"…알테어, '알테어 하이퍼웍스 2025' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220111538</guid>
             <pubDate>Thu, 20 Feb 2025 02:51:42 GMT</pubDate>
             <content:encoded><![CDATA[트래픽 및 리소스 관리 솔루션 기업 에스티씨랩(대표 박형준)은 미국의 티케팅 플랫폼 티케톤과 서버 가상대기실 솔루션 '넷퍼넬'을 제공하는 계약을 체결했다고 20일 밝혔다. 티케...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 첫 PBV 'PV5' 외장 디자인 공개…패신저·카고 2종 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220111349</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220111349</guid>
-            <pubDate>Thu, 20 Feb 2025 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[기아가 20일 브랜드 최초 전용 목적기반모빌리티(PBV) '더 기아 PV5(The Kia PV5, 이하 PV5)'의 외장 디자인을 공개했다. 이달 말 '2025 기아 EV 데이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '레전드 오브 이미르' 출시...게임팬 몰리나 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220095143</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220095143</guid>
-            <pubDate>Thu, 20 Feb 2025 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 신작 게임 '레전드 오브 이미르'를 출시하는 가운데, 게임팬이 대거 몰릴지 주목을 받고 있다. '레전드 오브 이미르'는 '미르4'와 '나이트크로우'의 뒤를 이어 위메...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, AI의 SW 개발 성과 공개…"단독 수행보단 협력이 최적" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220110635</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220110635</guid>
-            <pubDate>Thu, 20 Feb 2025 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)이 실제 소프트웨어(SW) 개발 업무에서 어느 정도의 경제적 가치를 창출할 수 있는지 평가한 새로운 연구 결과가 공개됐다. 해당 연구에서는 AI가 독립적으로 복잡...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드커넥트, '로스트소드'로 서브컬처 시장 연착륙 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220103556</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220103556</guid>
-            <pubDate>Thu, 20 Feb 2025 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드커넥트가 지난달 선보인 신작 '로스트소드'가 안정적인 흐름을 이어가고 있다. 그동안 캐주얼 게임을 위주로 라인업을 구성한 위메이드커넥트는 '로스트소드'로 서브컬처 시장에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
