@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나생명보험·IBK연금보험 등 금융권 채용 '여기' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250221115343</link>
+            <guid>https://zdnet.co.kr/view/?no=20250221115343</guid>
+            <pubDate>Fri, 21 Feb 2025 03:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[진학사 캐치는 2025년 상반기 주요 기업에서 신규 직원 채용에 돌입했다고 21일 밝혔다. 채용을 진행하는 기업은 하나생명보험, KT스카이라이프, 아이비케이연금보험, 다우데이타...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/21/cc61444e5100f8cdd3f82a05c983a7e2-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쏘카, 서울·고양서 '운전교육용 차량' 운영 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250221114840</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250221114653</guid>
             <pubDate>Fri, 21 Feb 2025 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[코니아랩의 기업문화 복지 플랫폼 '윙크'는 마이데이터 거래 플랫폼 전문 기업 에스앤피랩의 '마이디'와 상호협력을 위한 업무제휴 협약(MOU)을 체결했다고 21일 밝혔다. 이번 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/21/b6c8e0cbd56d4307552f23fb2c983340-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[외국계 제약사들, 대한민국 일하기 좋은 100대 기업에 다수 선정 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221105508</guid>
             <pubDate>Fri, 21 Feb 2025 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[오케스트로가 행정안전부 긴급신고 통합시스템의 클라우드 네이티브 전환부터 운영·유지관리까지 전 과정을 주도하며 공공 부문의 디지털 혁신을 선도에 나선다. 오케스트로는 '행정안전부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1분건강] 치매, 인지 기능 강화로 예방해야 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221105323</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221105323</guid>
-            <pubDate>Fri, 21 Feb 2025 02:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라가 초고령사회에 진입하면서 노인성 질환 가운데 하나인 치매 예방 및 관리에 주의를 기울여야겠다. 국립중앙의료원 중앙치매센터에 따르면, 국내 치매 환자 수는 100만 명을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
