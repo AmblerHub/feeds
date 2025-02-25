@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 02:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 03:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다나와 "OLED 모니터 가격 하락에 점유율 증가세" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250225121713</link>
+            <guid>https://zdnet.co.kr/view/?no=20250225121713</guid>
+            <pubDate>Tue, 25 Feb 2025 03:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내 PC용 모니터 시장에서 OLED(유기발광다이오드) 패널 적용 모니터 점유율이 증가세다. OLED 패널 수율 향상과 제조사간 경쟁 심화로 가격이 내리며 이를 찾는 소비자들이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/02/72c3ac1ef269eb95737b005f5e03384f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리은행, 상반기 190여명 신입행원 뽑는다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250225115700</link>
+            <guid>https://zdnet.co.kr/view/?no=20250225115700</guid>
+            <pubDate>Tue, 25 Feb 2025 03:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[우리은행이 약 190명의 신입행원을 뽑는다고 25일 밝혔다. 이번 채용은 ▲기업금융 ▲개인금융 ▲지역인재 ▲우리 히어로 ▲IT/디지털 총 5개 부문으로 진행되며, 지역인재 부문...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/02/70583896480fb820d271aed8645bcf0e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['차세대 구글' 퍼플렉시티, AI 브라우저 '코멧'으로 크롬 대체할까 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250225113613</link>
             <guid>https://zdnet.co.kr/view/?no=20250225113613</guid>
             <pubDate>Tue, 25 Feb 2025 02:55:05 GMT</pubDate>
             <content:encoded><![CDATA[퍼플렉시티가 자체 인공지능(AI) 웹 브라우저 '코멧'을 개발하며 사업 영역을 확대한다. 검색 엔진과 브라우저를 결합해 자사 생태계를 구축하고 크롬·엣지·사파리가 장악한 시장에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/25/b95a8a4dd97000ce41fe41dc59e82ee5-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유한양행, 22년 연속 가장 존경받는 제약사 1위 올라 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250225112710</guid>
             <pubDate>Tue, 25 Feb 2025 02:55:05 GMT</pubDate>
             <content:encoded><![CDATA[유한양행이 22년 연속 존경받는 제약사 1위에 올랐다. 회사는 한국능률협회가 선정하는 2025 한국에서 가장 존경받는 기업에서 22년 연속으로 제약부문 1위, All Star ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/25/e1d363ed95821985173f3569325cc0fc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["한의사도 X-ray 사용하겠다”…한의사협회, 공식 선언 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250225104348</guid>
             <pubDate>Tue, 25 Feb 2025 02:55:05 GMT</pubDate>
             <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 소속 황정아 의원(더불어민주당)은 정보통신기획평가원(IITP)의 법적 근거를 보충하는 내용의 정보통신융합법 개정안을 대표발의 했다고 25일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국전통문화대, 이탈리아에 우리 전통문화의 아름다움 알려 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225103637</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225103637</guid>
-            <pubDate>Tue, 25 Feb 2025 02:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국전통문화대학교(총장 강경환)는 '2024-2025 한국-이탈리아 상호 문화교류의 해'를 맞이해 주이탈리아한국문화원에서 개최되는 우나영 작가의 '한복 입은 서양 동화' 전(展...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성바이오에피스, 자가면역질환 치료제 '피즈치바' 美 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225103455</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225103455</guid>
-            <pubDate>Tue, 25 Feb 2025 02:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성바이오에피스가 자가면역질환 치료제 스텔라라의 바이오시밀러 '피즈치바(성분명 우스테키누맙)'를 미국에 출시했다. 이로써 회사는 미국에서 5번째 제품을 출시하게 됐다. 피즈치바...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
