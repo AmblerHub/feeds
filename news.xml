@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 02:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 03:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레노버 "아우라 에디션, 1만 명 소비자 목소리 결정체"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226122000</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226122000</guid>
+            <pubDate>Wed, 26 Feb 2025 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[[요코하마(일본)=권봉석 기자] "PC는 더 이상 단순한 개인용 컴퓨터를 의미하지 않는다. PC는 개인용 컴퓨터에서 개인용 컴퓨팅으로, 그리고 이제는 AI 기반 개인화된 컴퓨팅...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/26/08a34633491572ccfa88d8d6ec1b1f01-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환경부, 올해 전기차 충전기 9만5400기 설치 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226114212</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226114212</guid>
+            <pubDate>Wed, 26 Feb 2025 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 올해 전기차 충전시설 설치사업 예산을 지난해보다 43% 늘어난 6천187억원으로 확정, 총 9만5천400기 설치를 지원한다. 환경부는 이같은 내용을 담은 올해 전기차 충...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/26/3e1a7d71d4468beda0481731c5bd3abb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국이 만든 디지털 권리장전, 영국으로 확산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226111818</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226111818</guid>
+            <pubDate>Wed, 26 Feb 2025 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부와 한국지능정보사회진흥원(NIA)는 영국의 옥스퍼드대학, 데모스(Demos)와 공동으로 진행한 연구과제인 '2025년 디지털 권리 강화:영국, 유럽연합 및 글로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[APEC 韓 개최 앞두고 21개국 기업인·고위관리 모여 첫 회의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226100330</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226100330</guid>
+            <pubDate>Wed, 26 Feb 2025 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 APEC 정상회의 한국 개최를 앞두고 APEC 기업인들의 모임이 호주에서 열렸다. 대한상공회의소는 APEC 기업인자문위원회(이하 ABAC) 1차 회의를 지난 23일부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마일게이트 '로드나인', 새 성장 콘텐츠 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20250226105052</link>
             <guid>https://zdnet.co.kr/view/?no=20250226105052</guid>
             <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트는 엔엑스쓰리게임즈가 개발한 MMORPG '로드나인'에 새로운 성장 콘텐츠를 추가하고 신규 메인 퀘스트도 업데이트 했다고 26일 밝혔다. 스마일게이트는 이번 성장 콘...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/26/7f84228ff2d1229b4a9f66699b19a3d2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장] "AI, 국가백년지대계"…AI 기본법 유효성 논의 위해 국회의원들 모였다]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250226114101</guid>
             <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA["지난해 12월 국회가 인공지능(AI) 기본법을 통과시키며 새로운 전환점을 만들어 냈습니다. AI 기본법에 포함된 많은 내용들이 유효, 적절하게 시행될 수 있도록 이번 토론이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/26/150b3741acf4417e81fe452c671d9c30-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[업비트, 포브스 선정 '2025년 가장 신뢰할 수 있는 거래소' 국내 1위]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250226110752</guid>
             <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA[해군사관학교에 스텔스 와이파이가 구축된다. 스텔스 와이파이는 인증되지 않은 사용자에게는 네트워크 자체가 보이지 않는 고도의 보안 네트워크다. 한국전자통신연구원(ETRI)은 26...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['간편송금' 혁신 불러온 토스, '차세대 토스' 기르는 투자자로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226093126</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226093126</guid>
-            <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[공인인증서 없이도 간편하게 송금할 수 있는 토스(운영사 비바리퍼블리카)가 이제 차세대 토스를 길러내는 투자자가 되겠다고 선언했다. 26일 서울 성동구 앤더슨씨에서 열린 토스 애...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK매직, 파리 생제르맹 FC와 공식 파트너십]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226103139</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226103139</guid>
-            <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[SK매직은 세계적인 축구 구단 파리 생제르맹 FC(PSG)와 공식 파트너십을 체결하고 스포츠 마케팅에 본격 나선다고 26일 밝혔다. 1970년 창단된 PSG는 프랑스 파리를 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT SAT, 스타링크 결합한 멀티궤도 위성통신 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226110435</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226110435</guid>
-            <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[KT SAT이 정지궤도 무궁화위성과 스타링크 결합 통신을 구현하는 차세대 해양 위성 통합솔루션 '엑스웨이브원(XWAVE-ONE)'을 공식 출시했다고 26일 밝혔다. KT SAT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["6월 간호법 시행 발맞춰 간호사 처우개선·역량 강화할 것”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226110356</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226110356</guid>
-            <pubDate>Wed, 26 Feb 2025 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[간호계가 오는 6월 간호법 시행과 발맞춰 간호사 처우개선 및 역량 강화를 위한 의지를 밝혔다. 제94회 대한간호협회 정기 대의원총회가 26일 오전 서울 중구 롯데호텔 서울에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
