@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 03:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 04:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT 사업전략 재정비...'돈버는 AI' 선두 주자는 AIDC (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250303131710</link>
+            <guid>https://zdnet.co.kr/view/?no=20250303131710</guid>
+            <pubDate>Mon, 03 Mar 2025 04:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] SK텔레콤이 본격적으로 AI 사업 수익화에 나선다. 3년 전 MWC 무대에서 홀로 AI를 강조한 뒤 글로벌 통신업계 모두가 AI로 뛰어들 때...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/03/c7b6c87cdf4ef26aaa40e1d83366939f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대N, 10주년 기념 프로모션…"출고고객 5명 뉘르부르크링 초청" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250303122956</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250303122237</guid>
             <pubDate>Mon, 03 Mar 2025 03:32:50 GMT</pubDate>
             <content:encoded><![CDATA[국내 제조업 10곳 중 4곳은 산업용 전기요금 인상에 따라 자가발전, 전력도매시장에서 직접구매 등 한전 전기가 아닌 새로운 전력조달방식을 시도할 의향이 있는 것으로 나타났다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/03/f4428e139022efcf6cbf799cb4f241fc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경주 APEC에서 디지털·AI 장관회의 개최 추진 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250301084605</guid>
             <pubDate>Mon, 03 Mar 2025 02:57:31 GMT</pubDate>
             <content:encoded><![CDATA[소아비만 환자에 대한 적극적인 치료 참여가 필요하다는 전문가 조언이 나왔다. 대한비만학회의 '2023 비만 팩트시트'에 따르면, 2012년과 2021년 소아청소년 유병률은 남아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 2.0 시대에 美국방 5G 강조한 노키아 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250303095257</link>
-            <guid>https://zdnet.co.kr/view/?no=20250303095257</guid>
-            <pubDate>Mon, 03 Mar 2025 02:57:31 GMT</pubDate>
-            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] 노키아가 MWC 무대에서 미국에 구축한 국방용 5G를 강조하고 나섰다. AI 기술에 대한 비전이나 적용 등의 사례를 두고 5G 밀리터리 하이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
