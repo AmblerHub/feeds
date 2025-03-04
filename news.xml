@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 02:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 03:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글룩-국립현대미술관, 시각장애인 위한 3D 촉각 전시 성료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304120148</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304120148</guid>
+            <pubDate>Tue, 04 Mar 2025 03:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[글룩(대표 홍재옥)은 지난해 10월부터 올해 2월23일까지 국립현대미술관 청주관 '이름의 기술' 전시에서 시각장애인을 위한 3D 촉각형 전시 감상 자료를 제공했다고 4일 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/04/34e6d95b288a785665085fd4747f501d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분건강] '음식중독' 아동·청소년, 비만에 감정‧행동 문제도 심각]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304112255</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304112255</guid>
+            <pubDate>Tue, 04 Mar 2025 03:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[음식 중독이 높은 아동과 청소년이 비만 정도가 높고, 감정과 행동 문제도 심각하다는 연구결과가 나왔다. 질병관리청 국립보건연구원은 비만 아동·청소년에서 음식중독과 정서·행동 문...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/26/602ddc321be61ba1ef5cc5b8f679cad3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1만원대 5G 20기가 알뜰폰 요금제 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304100706</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304100706</guid>
+            <pubDate>Tue, 04 Mar 2025 03:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 '알뜰폰 경쟁력 강화 방안 발표' 후 알뜰폰 도매대가의 대폭 인하에 따라 시장에서 1만원대 5G 20GB 요금제가 새롭게 출시되고 있다고 4일 밝혔다. 앞서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[패스트뷰, 차량 구매 플랫폼 '차살때' 앱 개편..."아이폰 이용자도 쓴다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250304115341</link>
             <guid>https://zdnet.co.kr/view/?no=20250304115341</guid>
             <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
             <content:encoded><![CDATA[패스트뷰의 차량 구매 플랫폼 '차살때'가 사용자 경험(UX)·디자인을 대폭 개선하고, 실시간 푸쉬 알림 기능을 추가하는 개편을 단행했다고 4일 밝혔다. 기존 안드로이드 버전에서...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/04/845c536b6617c8cf72eefea523748628-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[속보] 위믹스, DAXA 거래유의 종목 지정…"브릿지 볼트 해킹 발생"]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250304114152</guid>
             <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 가상자산 거래소가 위믹스를 거래유의 종목으로 지정했다. 디지털자산 거래소 공동협의체(DAXA)는 4일 위믹스 공식 브릿지 볼트에서 발생한 해킹 사건과 이에 따른 공시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/28/566b4e377856d9fa36dd8ec97f4f8663-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 연세대학교의료원]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250304110243</guid>
             <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
             <content:encoded><![CDATA[혼다코리아가 국내 수입차 브랜드 최초 및 국내 최대 규모의 모터사이클 안전운전 교육 전문기관인 '혼다 에듀케이션 센터'를 오는 5일에 공식 오픈하고, 일반 소비자 대상 본격적인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 신학기 맞아 캠퍼스존 포인트 적립률 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250304104122</link>
-            <guid>https://zdnet.co.kr/view/?no=20250304104122</guid>
-            <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[NHN페이코(대표 정승규)가 2025년 신학기를 맞아 전국 페이코 캠퍼스존에서 제공하는 포인트 적립을 강화한다고 4일 밝혔다. NHN페이코는 새 학기를 맞아 캠퍼스존 포인트 결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[강한결의 인디픽] N9 스튜디오 "'프로젝트 타키온', 도전과 극복의 재미 담았다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250304105026</link>
-            <guid>https://zdnet.co.kr/view/?no=20250304105026</guid>
-            <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[인디게임이 글로벌 게임산업 신성장동력으로 부상한 가운데 독창성과 참신함을 매력으로 게임 이용자를 사로잡은 작품도 속속 늘고 있습니다. 국내 게임업계에도 인디게임 산업 발전을 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨-넷마블-크래프톤-NHN, 3월 신작 게임 경쟁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250304095321</link>
-            <guid>https://zdnet.co.kr/view/?no=20250304095321</guid>
-            <pubDate>Tue, 04 Mar 2025 02:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[주요 게임사가 다양한 장르의 신작 게임을 올해 순차적으로 출시할 예정인 가운데, 3월부터 신작 게임 경쟁의 막이 오른다. 각 게임사는 신작을 앞세워 실적 추가 성장과 개선에 박...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
