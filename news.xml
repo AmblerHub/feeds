@@ -4,16 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 02:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 03:29:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['현대차·폭스바겐 효과' SK온, 1월 배터리 점유율 ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305120341</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305120341</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 1월 LG에너지솔루션, SK온, 삼성SDI 등 국내 배터리 3사의 글로벌 전기차용 배터리 사용량 시장 점유율이 전년 동기 대비 3%p 하락한 16.9%를 기록했다. 같은 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/05/b74fb853c3ed23bc2d2654d7ce5a291a-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 민병덕 의원 "가상자산 대신 디지털자산으로 개념 바꿔야 한다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305121331</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305121331</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:50 GMT</pubDate>
+            <content:encoded><![CDATA["가상자산이라는 용어 대신 디지털자산이라는 명칭을 사용해야 한다." 더불어민주당 민병덕 의원은 5일 국회의원회관에서 열린 디지털자산 기본법 제정을 위한 국회포럼에서 이와 같이 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/05/7503bf3729483505f6ea4236b2d4db58-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이트재단, 2025년 연구비 사업 공고…과제당 최대 40억 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305121040</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305121040</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[국제보건기술연구기금(이하 라이트재단)이 2025년 중저소득국의 감염병 예방 및 관리에 대한 제품개발연구비를 지원 사업을 개시했다. 지원 규모는 한 과제당 최대 40억 원이다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["글로벌 인도적 위기에 韓 역할 기대”…국경없는의사회 국제회장 방한]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305120301</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305120301</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[크리스토스 크리스토우 국경없는의사회(MSF) 국제회장이 5일 방한한다. 우리나라에 처음 방문하는 크리스토우 국제회장은 5일 연세대를 시작으로 6일에는 서울대에서 특별강의에 나선...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공정위, 당근마켓 제재…"통신판매중개업자 의무 미이행"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305084345</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305084345</guid>
+            <pubDate>Wed, 05 Mar 2025 03:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 전자상거래법을 제대로 준수하지 않았다는 이유로 당근마켓에 법 위반 행위 시정명령과 과태로 100만원을 부과키로 했다. 이날 공정위 송명현 전자거래감시팀장은 세종...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에니아이, 햄버거 조리로봇 '뉴 알파 그릴' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250305115447</link>
             <guid>https://zdnet.co.kr/view/?no=20250305115447</guid>
             <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
             <content:encoded><![CDATA[로봇 키친 스타트업 에니아이는 차세대 햄버거 조리로봇 '뉴 알파 그릴'을 출시했다고 5일 밝혔다. 신제품은 기존 모델의 핵심 기능을 유지하면서도 조리 속도를 높이고, 온도 제어...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/05/97b91cc23b98e92ad728ea542d481211-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK온 "각형·46파이 개발 완료…양산 준비 단계"]]></title>
@@ -21,7 +61,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250305115209</guid>
             <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
             <content:encoded><![CDATA[배터리 폼팩터 대세가 기존 파우치 대신, 각형 및 원통형 '46파이(지름 46mm)' 배터리로 옮겨갈 것으로 전망되는 가운데 SK온이 관련 기술 개발을 마쳤고, 양산을 준비하고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/05/c15097b2972ea5bc343396b5e97bd35e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한화첨단소재, 국제 전시회서 미래 모빌리티 소재 기술 선봬]]></title>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250305101853</guid>
             <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
             <content:encoded><![CDATA[교촌치킨 창업주 교촌에프앤비 권원강 회장이 자서전 '최고의 상술'을 발간했다. 책에는 작은 통닭집에서 프랜차이즈 브랜드로 성장한 권원강 회장의 경영철학과 인생철학이 담겨 있다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넵튠, 서브컬처 수집형 RPG '앵커패닉' 퍼블리싱 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250305110125</link>
-            <guid>https://zdnet.co.kr/view/?no=20250305110125</guid>
-            <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[넵튠(각자대표 강율빈, 정욱)은 5일 글로벌 게임 개발사 레이옌 게임(LEIYAN GAME)이 제작한 미소녀 수집형 RPG '앵커패닉'의 국내 서비스를 위한 퍼블리싱 계약을 체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 美 우주선 달 착륙 순간 공개…"부츠에 달 먼지 묻었다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250305105145</link>
-            <guid>https://zdnet.co.kr/view/?no=20250305105145</guid>
-            <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[미국 민간 우주기업 '파이어플라이 에어로스페이스'의 달 착륙선 '블루 고스트'가 달에 부드럽게 착륙하는 모습이 영상으로 공개됐다고 스페이스닷컴 등 외신들이 4일(현지시간) 보도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코퓨처엠 사장, 장인화 체제 후 위축설 일축…"캐즘 따른 조정"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250305102638</link>
-            <guid>https://zdnet.co.kr/view/?no=20250305102638</guid>
-            <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[포스코퓨처엠 수장이 장인화 포스코그룹 회장 취임 후 이차전지 소재 사업이 축소됐다는 지적에 '사실무근'이라는 입장을 밝혔다. 엄기천 포스코퓨처엠 사장은 5일 서울 코엑스에 진행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[M4 맥북 에어, 6일 공개 유력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250305102300</link>
-            <guid>https://zdnet.co.kr/view/?no=20250305102300</guid>
-            <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 아이패드 에어와 보급형 아이패드 모델을 공개한 지 하루 만에 M4 칩을 탑재한 맥북 에어를 내놓을 것이라는 전망이 나왔다. IT매체 애플인사이더는 애플 전문 분석가 블룸...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마블 라이벌즈, 신규 게임 모드 '클론 대전' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250305104852</link>
-            <guid>https://zdnet.co.kr/view/?no=20250305104852</guid>
-            <pubDate>Wed, 05 Mar 2025 02:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 흥행을 이어가고 있는 마블 IP 기반의 PVP 슈팅 협동 게임 마블 라이벌즈가 기간 한정 신규 게임 모드 '클론 대전'을 공개했다. '클론 대전'은 한국 시각 3월 7일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
