@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 02:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 03:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 의료사고 발생 시 환자 보상 확대 의료인 보호 제도개선 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250306121249</link>
+            <guid>https://zdnet.co.kr/view/?no=20250306121249</guid>
+            <pubDate>Thu, 06 Mar 2025 03:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 필수의료를 시행하다 발생하는 의료사고에 대해 환자 보상 확대 및 의료진 보호를 골자로 한 입법을 추진 중이라고 밝혔다. 박민수 의사 집단행동 중앙재난안전대책본부(중대본)...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/06/8734526ed7f3b586268cdc91d9abc22b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포블, AWS 기반 아웃바운드 보안정책 강화…안전한 거래 환경 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20250306114345</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250306113902</guid>
             <pubDate>Thu, 06 Mar 2025 02:57:14 GMT</pubDate>
             <content:encoded><![CDATA[카이아 DLR 재단(재단)은 카이아 기반 미니 디앱 서비스가 라인 메신저 내 출시 한 달 만에 3천5백만명이 넘는 누적 이용자를 기록했다고 6일 밝혔다. 재단은 한국, 일본, ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/06/c918c18b6c6b10b5489b378df38db79f-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[홈플러스 상품권 거절 도미노…티메프 악몽 재현되나]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250306093835</guid>
             <pubDate>Thu, 06 Mar 2025 02:57:15 GMT</pubDate>
             <content:encoded><![CDATA[미국 우주탐사기업 인튜이티브 머신스의 달 착륙선 '아테나'가 오는 6일(현지시간) 달 착륙을 앞두고 놀라운 달의 풍경을 포착해 공개했다고 우주과학매체 스페이스닷컴이 5일 보도했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미피 70주년 기념전, 해피랜드와 특별 이벤트 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250306103544</link>
-            <guid>https://zdnet.co.kr/view/?no=20250306103544</guid>
-            <pubDate>Thu, 06 Mar 2025 02:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[피플리는 미피 탄생 70주년 기념 특별 전시 '미피와 마법우체통'이 해피랜드 코퍼레이션과 협력해 다양한 이벤트를 선보인다고 6일 밝혔다. 미피 70주년 전시 기획사 피플리는 티...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
