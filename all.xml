@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 02:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 03:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프로필] 베스핀글로벌 한대영 부사장 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250307120708</link>
+            <guid>https://zdnet.co.kr/view/?no=20250307120708</guid>
+            <pubDate>Fri, 07 Mar 2025 03:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[베스핀글로벌은 2025년 정기 임원 인사를 통해 한대영 영업2본부 전무가 부사장으로 승진했다고 7일 밝혔다. 한대영 신임 부사장은 IT 인프라 및 클라우드 업계에서 20년 이상...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/07/bffb0ff68c4b7c8c87fbac51fd2e3cab-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI, 젠젠에이아이 지분 10% 확보…2대 주주 올라 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250307113102</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250307112421</guid>
             <pubDate>Fri, 07 Mar 2025 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[금융 AI 기술 기업 혜움(대표 옥형석)이 AX 시대를 맞아 AI 에이전트 시장을 선도할 인재를 공개채용 한다고 7일 밝혔다. 주요 채용 직군은 ▲AI 엔지니어 ▲프론트엔드(F...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/07/e279eefa2ff8f885b006a36b02c2f08d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국車기자협회가 뽑은 3월의 차는 '현대차 아이오닉9' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250307095901</guid>
             <pubDate>Fri, 07 Mar 2025 02:57:52 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰에 적용되는 소형 OLED 출하량이 중국 후발주자들을 중심으로 지속 확대될 전망이다. 다만 매출액은 오는 2029년까지 국내 기업들이 과반 이상을 유지할 수 있을 것으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 아테나, 달 착륙엔 성공…몸체 뒤집혔을 가능성 [우주로 간다] (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250307093856</link>
-            <guid>https://zdnet.co.kr/view/?no=20250307093856</guid>
-            <pubDate>Fri, 07 Mar 2025 02:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[미국 민간 우주탐사기업 인튜이티브 머신스의 달 탐사선 '아테나'가 6일(현지시간) 달 남극에 착륙했지만 정확한 상태가 파악되고 있지 않다고 스페이스닷컴 등 외신들이 보도했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
