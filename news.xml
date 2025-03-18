@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 03:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 03:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IPO 앞둔 케이뱅크, 총량 규제 가계대출보다 기업대출에 집중한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318105139</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318105139</guid>
+            <pubDate>Tue, 18 Mar 2025 03:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[기업공개(IPO)를 다시금 공식화한 인터넷전문은행 케이뱅크가 가계대출보다는 기업대출에 집중해 성장을 꾀한다. 18일 서울 중구 커뮤니티마실에서 열린 기자간담회에서 케이뱅크는 개...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/18/3f81a06e977c8d24183a9a7b8eec6079-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분건강] 새 학기 자녀 안경 맞추려면 안과 먼저 가세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318120817</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318120817</guid>
+            <pubDate>Tue, 18 Mar 2025 03:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[새 학기를 맞아 자녀의 안경을 맞추려는 부모들이 적지 않다. 전문가들은 아이의 눈 상태를 정확히 알고 안경이나 콘택트렌즈를 맞춰야 한다고 조언했다. 건강보험심사평가원에 따르면,...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/18/fab7482a18c26cca8e682998ed9fa0d3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 연세대의료원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318115210</link>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250318114717</guid>
             <pubDate>Tue, 18 Mar 2025 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[구직자의 만족도와 기업 이미지를 제고하는 채용 혁신 사례가 눈길을 끌고 있다. 한국바른채용인증원은 지난달 27일 열린 대한민국 바른채용 컨퍼런스에서 “공공기관들이 인턴 및 정규...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/18/18cf06da03fc0c1da49d3285ba0d5fd7-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美제약협회, AI정책 도입 트럼프에 "의약품 분야는 다른 접근 필요”]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318103557</guid>
             <pubDate>Tue, 18 Mar 2025 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트가 자체 게임 플랫폼 '스토브'의 경쟁력 강화를 위해 적극적인 움직임을 보이고 있다. AAA급 타이틀 입점부터 인디게임 활성화까지 다양한 방안을 추진 중이다. 게임물...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전용 플랫폼 기반 '더 뉴 아우디 Q6 e-트론' 출시…8290만원부터]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318105219</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318105219</guid>
-            <pubDate>Tue, 18 Mar 2025 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[아우디코리아가 준대형 프리미엄 전기 스포츠유틸리티차(SUV) '더 뉴 아우디 Q6 e-트론'을 18일 공식 출시하고 21일부터 판매를 시작한다고 밝혔다. 더 뉴 아우디 Q6 e...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데百 영플라자, 내달부터 전면 리뉴얼]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318094526</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318094526</guid>
-            <pubDate>Tue, 18 Mar 2025 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[롯데백화점이 다음 달부터 본점 영플라자 전면 개보수 공사에 돌입한다고 18일 밝혔다. 롯데백화점은 명동 상권의 장점을 살려 글로벌 젠지(Gen-Z) 고객들의 발길을 이끌 패션,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
