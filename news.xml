@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 03:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 04:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이복현 금감원장 "가상자산 거래소 내부통제 실패 사례 점검"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319132334</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319132334</guid>
+            <pubDate>Wed, 19 Mar 2025 04:25:42 GMT</pubDate>
+            <content:encoded><![CDATA["검사를 진행했던 가상자산 거래소 등과 관련해 주요한 내부통제 실패 사례가 점검됐다" 이복현 금융감독원장은 19일 기자 간담회에서 이와 같이 말하며 다음 주 해당 검사 결과를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/27/54472c0c51400803335cd22543c98a77-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액토즈소프 '파이널판타지14', 미지와의 해후 업데이트 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319131847</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319131847</guid>
+            <pubDate>Wed, 19 Mar 2025 04:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[액토즈소프트(대표 구오하이빈)는 PC MMORPG '파이널판타지14'에서 V7.1 '미지와의 해후'를 지난 18일 업데이트했다고 19일 밝혔다. V7.1 '미지와의 해후'에서는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/19/e943b4563d50e75dd9f1661fbf103d8c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젭, 태국 공식 진출… 동남아 에듀테크 시장 공략 '잰걸음']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319131302</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319131302</guid>
+            <pubDate>Wed, 19 Mar 2025 04:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 기반 에듀테크 플랫폼 '젭(ZEP, 대표 김원배, 김상엽)'이 태국에 공식 진출하며 동남아시아 에듀테크 시장 공략에 나섰다. 지난달 11일 인도네시아 공식 진출에 이은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["내 인생, 내가 만든다"…크래프톤 '인조이', 오는 28일 얼리액세스 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20250319122857</link>
             <guid>https://zdnet.co.kr/view/?no=20250319122857</guid>
             <pubDate>Wed, 19 Mar 2025 03:35:23 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤의 인생 시뮬레이션 게임 '인조이'가 PC 게임 플랫폼 스팀에서 얼리억세스(앞서 해보기) 국내 발매가 4만4천800원에 출시된다. 크래프톤은 19일 인조이 온라인 쇼케이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/19/0402092c21bedbc2a89ab74e991710b2-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[日 기준금리 0.5%로 동결…가상자산 시장 하락세 '일단 멈춤']]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250319122412</guid>
             <pubDate>Wed, 19 Mar 2025 03:35:23 GMT</pubDate>
             <content:encoded><![CDATA[일본은행(BOJ)이 19일 금융정책결정회의에서 기준금리를 현행 0.5%로 동결했다. 초저금리 기조를 유지하며 경기 부양을 지속하겠다는 신호로 해석된다. 일본은행 금리 동결 소식...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/01/4bb2d162eabcc5e8e04d931133fb919b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[당근머니로 24시간 ATM 출금...쿠콘, 'COATM' API 제공]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250319105433</guid>
             <pubDate>Wed, 19 Mar 2025 02:59:34 GMT</pubDate>
             <content:encoded><![CDATA[오라클이 프로그래밍 언어·개발 플랫폼 '자바 24'를 출시해 개발자 생산성과 보안을 한층 높였다. 오라클은 오라클이 자바 최신 버전 자바 24를 공개했다고 19일 발표했다. 자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 경제성장 비결은 '우수 인재'…"韓도 해외 AI 인력 유치 적극 나서야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319110023</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319110023</guid>
-            <pubDate>Wed, 19 Mar 2025 02:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[최근 전 세계적으로 인공지능(AI) 등 첨단 산업 분야를 중심으로 우수 인력 쟁탈전이 치열해진 가운데 우리나라도 미국처럼 해외 인력 유치에 적극 나설 필요가 있다는 지적이 나왔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리금융, 경영실태평가 강등되자마자 보통주자본비율 개선 공시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319102354</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319102354</guid>
-            <pubDate>Wed, 19 Mar 2025 02:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[금융감독원이 우리금융지주의 보험사 자회사 편입에 가장 중요한 경영실태평가 등급을 18일 통보한 것으로 확인됐다. 금감원은 19일 세부적인 등급 내용은 언급하지 않았지만 기존 우...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 미르5, 엔비디아 지포스 나우에서 즐긴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319104114</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319104114</guid>
-            <pubDate>Wed, 19 Mar 2025 02:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드(대표 박관호)의 종속회사 위메이드넥스트(대표 박정수)는 엔비디아(NVIDIA)와 '미르5'의 사업 협력 계약을 체결했다고 19일 밝혔다. 이번 계약을 통해 양사는 위메...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
