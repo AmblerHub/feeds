@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 02:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 03:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 IT인재 일본 프로젝트에 투입···특별 혜택 줄 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250322123346</link>
+            <guid>https://zdnet.co.kr/view/?no=20250322123346</guid>
+            <pubDate>Sat, 22 Mar 2025 03:36:11 GMT</pubDate>
+            <content:encoded><![CDATA["현재 일본 내 50여개 기업 및 기관과 협력해 프로젝트를 준비 중입니다." 41만명의 프리랜서 개발자 전문가를 보유한 이랜서의 박우진 대표는 "일본 시장에 본격 진출한다"며 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/22/ca07efc7acb9f6999af610e9b9b30ee8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["챗GPT, 노벨상 연구는 불가"… 생성형 AI의 과학적 한계, 뭐길래? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250322103343</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250322102940</guid>
             <pubDate>Sat, 22 Mar 2025 02:57:24 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 검색 분야 신흥 강자인 퍼플렉시티가 또 다시 틱톡 인수에 도전한다. 더버지에 따르면 퍼플렉시티는 21일(현지시간) 회사 공식 블로그를 통해 틱톡 인수 제안 사실...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/18/424c57a2e180a1adf29268ac92206e8e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스페이스X, 9일만에 로켓 재사용…5일 단축 '신기록' [우주로 간다] (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250321231146</guid>
             <pubDate>Sat, 22 Mar 2025 02:57:24 GMT</pubDate>
             <content:encoded><![CDATA[웨어러블 로봇 전문기업 코스모로보틱스는 청소년 재활용 로봇 '밤비니'가 최근 중국 국가식품약품감독관리총국(CFDA) 의료기기 인증을 획득했다고 21일 밝혔다. 밤비니는 선천성 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐렉소, 이그젝텍 '어깨 관절 임플란트' 국내 독점 판권 인수 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250321230524</link>
-            <guid>https://zdnet.co.kr/view/?no=20250321230524</guid>
-            <pubDate>Sat, 22 Mar 2025 02:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[의료로봇 전문기업 큐렉소는 최근 미국 이그젝텍 어깨 관절 임플란트의 국내 독점 판권 계약 인수를 완료했다고 21일 밝혔다. 현재 큐렉소는 이그젝텍과 국내 판권 양수도를 통한 독...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
