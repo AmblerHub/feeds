@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 03:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 04:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송호성 기아 사장 "PV5 유럽서 5천만원대…국내 곧 발표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250403121603</link>
+            <guid>https://zdnet.co.kr/view/?no=20250403121603</guid>
+            <pubDate>Thu, 03 Apr 2025 04:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[기아가 목적기반모빌리티(PBV)를 경기도 고양시 킨텍스에서 열리는 '2025 서울모빌리티쇼'에서 공개했다. 송호성 기아 사장은 3일 '2025 서울모빌리티쇼' 기아 기자회견 직...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/04/03/f63c7c57ccddc24e84f98b816b52f304-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 관세 폭격에 통상전쟁 전면전…K-자동차·배터리 셈법 복잡]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250402183019</link>
+            <guid>https://zdnet.co.kr/view/?no=20250402183019</guid>
+            <pubDate>Thu, 03 Apr 2025 04:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[미국 트럼프 행정부의 자동차·부품 고율 관세를 포함해 상호관세가 현실화되면서, 글로벌 통상전쟁이 격화되고 있습니다. 국내 IT산업을 비롯해 완성차와 부품 업계에 비상이 걸렸습니...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/14/f5a8e7605fa4a9c9c5360b6c41cf2238-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스포츠카 DNA 탑재" 벤츠, '메르세데스-AMG GT' 2세대 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250403111022</link>
+            <guid>https://zdnet.co.kr/view/?no=20250403111022</guid>
+            <pubDate>Thu, 03 Apr 2025 04:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[메르세데스-벤츠 코리아가 럭셔리 자동차 브랜드로서의 입지를 강화하기 위해 메르세데스-AMG GT 2세대 완전변경 모델 등 신차와 맞춤형 제작 프로그램을 선보였다. 회사는 3일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[셀트리온, 자사주 1000억원 매입…올해만 3500억원 규모 매입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250403120608</link>
+            <guid>https://zdnet.co.kr/view/?no=20250403120608</guid>
+            <pubDate>Thu, 03 Apr 2025 04:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[셀트리온이 1천억 원 규모의 자사주 58만9천276주를 매입했다. 자사주 취득은 4일부터 장내매수 방식으로 이뤄지며, 전날 자사주 소각에 이은 결정이어서 눈길을 끌었다. 회사는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제네시스, 엑스 그란 콘셉트카 2종 세계 최초 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250403090528</link>
             <guid>https://zdnet.co.kr/view/?no=20250403090528</guid>
             <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
             <content:encoded><![CDATA[제네시스 브랜드(제네시스)가 출범 10주년을 맞이해 2종의 콘셉트 모델을 공개하며 플래그십 세단의 새로운 가능성을 제시했다. 제네시스는 3일 경기도 고양시 킨텍스에서 열린 '2...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/04/03/6467215b80ded4d831ef5c40a72ae28f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[온코닉테라퓨틱스, '자큐보' 구강붕해정 제형 품목허가 신청]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250403115324</guid>
             <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
             <content:encoded><![CDATA[온코닉테라퓨틱스가 식품의약품안전처에 칼륨 경쟁적 위산 분비 억제제(P-CAB) 신약인 자큐보(성분명 자스타프라잔)의 구강붕해정 제형에 대해 품목허가를 신청했다. 품목허가는 기존...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/18/7358dada3aeeed0b9a16fbb5e969b711-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[극 지방 궤도서 본 순백의 남극 대륙 [우주서 본 지구]]]></title>
@@ -56,7 +88,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[호세 무뇨스 현대차 사장 "美 25% 관세 부과에도 가격 인상 계획 없어"]]></title>
+            <title><![CDATA[호세 무뇨스 현대차 사장 "美 25% 관세 부과에 가격 인상 계획 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250403105731</link>
             <guid>https://zdnet.co.kr/view/?no=20250403105731</guid>
             <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250403101800</guid>
             <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
             <content:encoded><![CDATA[배달의민족의 물류서비스를 전담하는 우아한청년들은 배민커넥트 라이더만을 위한 전용 혜택프로그램 '월간 배-네핏(배민커넥트 배네핏, 이하 배네핏)'을 공개한다고 3일 밝혔다. 기존...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["공작기계 세계 1위로…제조 솔루션 시장 정조준"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403014652</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403014652</guid>
-            <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
-            <content:encoded><![CDATA["인류가 이룩한 문명의 모든 영역에서 공작기계가 쓰이지 않는 곳은 없습니다. 앞으로는 전통적인 공작기계를 넘어 자동화 플랫폼이나 적층 제조 장비처럼 수요 산업 공정 전반을 혁신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금속 잘 깎더니 쌓기까지…DN솔루션즈, 공작기계 신시장 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402222905</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402222905</guid>
-            <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[DN솔루션즈가 금속 적층 제조 시장 진출을 선언했다. 전통적 공작기계의 깎아내기 방식과 달리 재료를 한 층씩 쌓는 기술로 새로운 가능성을 제시한 것이다. 금속 적층 제조는 3차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우아한형제들, '우아한 사장님 살핌기금' 4차년도 사업 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403103334</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403103334</guid>
-            <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족 운영사 우아한형제들이 예기치 못한 사고, 질병 등으로 의료비가 필요한 외식업 업주들을 지원하는 '우아한 사장님 살핌기금'의 4차년도 접수를 시작했다고 3일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서부발전, '공주천연가스발전소' 착공…연간 20만 가구 전력수요 충당]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403105541</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403105541</guid>
-            <pubDate>Thu, 03 Apr 2025 03:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[서부발전이 국가 에너지 전환 정책의 일선을 담당하는 공주천연가스발전소 건설을 본격화한다. 공주천연가스발전소 건설은 태안화력발전 1호기를 대체할 구미천연가스발전소 건설에 이은 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
