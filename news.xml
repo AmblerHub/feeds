@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 03:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 04:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니티 "유니티 6, 다운로드 300만…AI·산업 협업 확대 본격화”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250415132435</link>
+            <guid>https://zdnet.co.kr/view/?no=20250415132435</guid>
+            <pubDate>Tue, 15 Apr 2025 04:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[유니티가 '유나이트 서울 2025' 기자간담회를 통해 유니티 6의 초기 성과와 차세대 AI 통합 전략, 산업 협업 현황을 공개하며 한국 시장 공략 의지를 분명히 했다. 유니티 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/04/15/1edcb07886206433e030875335be4e25-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸라닭, 2.0 비전 선포…'나폴리 맛피아'와 협업]]></title>
             <link>https://zdnet.co.kr/view/?no=20250415112902</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250415092909</guid>
             <pubDate>Tue, 15 Apr 2025 03:07:31 GMT</pubDate>
             <content:encoded><![CDATA[한국은행의 기준금리 인하 기조로 정기예·적금 금리가 향후 더 떨어질 것이라는 예측에 재예치하는 금액이 늘어났다. 15일 한국은행이 낸 '2025년 2월 통화 및 유동성' 자료에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/07/03/e12b521de210ee5fcac45bdd8a669582-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네오위즈 '피망 쇼다운 홀덤', 'PFGT X 피망 쇼다운 홀덤 토너먼트' 온·오프 대회 실시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250415110518</guid>
             <pubDate>Tue, 15 Apr 2025 03:07:31 GMT</pubDate>
             <content:encoded><![CDATA[한국철도공사(코레일)는 다음 달 7일까지 KTX와 ITX-새마을 자유석 '셀프체크인' 이용객을 대상으로 경품 행사를 진행한다고 15일 밝혔다. 이번 행사는 7일부터 5월 7일까...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["키보드로 만든 팬티, PC 활용 하이힐"…레트로 테크 패션 주목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250415102443</link>
-            <guid>https://zdnet.co.kr/view/?no=20250415102443</guid>
-            <pubDate>Tue, 15 Apr 2025 03:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[오래 된 전자 제품으로 자신의 개성을 표현하는 레트로 테크 패션이 주목되고 있다고 IT매체 더버지가 최근 보도했다. 이미 유명 스타와 패셔니스타들은 유선 헤드폰을 목걸이로 사용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
